@@ -1,0 +1,24 @@
+[submodule "GraphQL"]
+	path = GraphQL
+	url = https://github.com/carloscabir/graphql-learning-path-carloscabir
+[submodule "HTML&CSS"]
+	path = HTML&CSS
+	url = https://github.com/carloscabir/html-and-css-learning-path-carloscabir
+[submodule "JavaScript"]
+	path = JavaScript
+	url = https://github.com/carloscabir/javascript-learning-path-carloscabir
+[submodule "Markdown"]
+	path = Markdown
+	url = https://github.com/carloscabir/markdown-learning-path-carloscabir
+[submodule "Next"]
+	path = Next
+	url = https://github.com/carloscabir/nextjs-learning-path-carloscabir
+[submodule "NodeJs"]
+	path = NodeJs
+	url = https://github.com/carloscabir/nodejs-learning-path-carloscabir
+[submodule "Python"]
+	path = Python
+	url = https://github.com/carloscabir/python-learning-path-carloscabir
+[submodule "React"]
+	path = React
+	url = https://github.com/carloscabir/react-learning-path-carloscabir
