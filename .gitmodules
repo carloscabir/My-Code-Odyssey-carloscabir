@@ -22,3 +22,6 @@
 [submodule "React"]
 	path = React
 	url = https://github.com/carloscabir/react-learning-path-carloscabir
+[submodule "TypeScript"]
+	path = TypeScript
+	url = https://github.com/carloscabir/typescript-learning-path-carloscabir
